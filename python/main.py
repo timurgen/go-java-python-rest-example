@@ -17,4 +17,6 @@ def process_request():
 
 if __name__ == "__main__":
     random.seed(datetime.now())
+    # built in server may be used as well but not recommended
+    # APP.run(debug=False, host='0.0.0.0', threaded=True, port=8080)
     serve(APP, host='0.0.0.0', port=8080)
