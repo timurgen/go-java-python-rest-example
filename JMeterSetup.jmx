@@ -95,110 +95,7 @@
             <collectionProp name="Arguments.arguments">
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">[&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;﻿Ahsun Taquveem Chohan&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Ann-Sofie Vikstrøm Often&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Anuradha Sridharan&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Arturo Francisco Viveros&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Ashish Kapoor&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Cato Aune&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Christopher Christian  Laurente Rodrigue&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Dalibor Blazevic&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Deepak Shrivastava&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Dejan Maric&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Denis Velagic&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Hung Huynh&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Jon Petter Hjulstad&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Jonatan  Berge-Grønning&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Jorge Esteban Quilcate Otoya&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Kresimir Juric&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Lars  Liven&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Madeeha Khan&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Mahipavan Ariboina&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Marijana Juric Fraculj&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Melih Egeman Yavuz&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Morten Karlsen&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Nikita Zhevnitskiy&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Olve Slind&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Omar Slomic&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Paal Holmen&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Prakhar Srivastav&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Simon Davis Wanyama&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Thomas Isaksen&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Timur Samkharadze&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Trond  Brastad&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Truls Bugge&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Vitaly  Semenov&quot;&#xd;
-    },&#xd;
-    {&#xd;
-        &quot;name&quot;: &quot;Vitaly Moshkov&quot;&#xd;
-    }&#xd;
-]</stringProp>
+                <stringProp name="Argument.value">[//add real load]</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
             </collectionProp>
@@ -322,7 +219,7 @@
                 <connectTime>true</connectTime>
               </value>
             </objProp>
-            <stringProp name="filename">C:\Users\100tsa\Downloads\apache-jmeter-4.0\bin\recording.xml</stringProp>
+            <stringProp name="filename"></stringProp>
           </ResultCollector>
           <hashTree/>
         </hashTree>
